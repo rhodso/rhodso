@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm currently working on learning how to do 3D modelling using FreeCAD
+Currently working on Unity stuff
 
 Here's some stats:
 
